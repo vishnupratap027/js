@@ -32,3 +32,16 @@ console.log(typeof bigNumber)
 
 // Array, Objects, functions
 
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//stact(Primitive),heap(Non-Primitive)
+
+let myYoutubename = "hiteshchoudharydotcom"
+
+let anothername = myYoutubename
+anothername = "chaiaurcode"
+
+console.log(myYoutubename)
+console.log(anothername)
+
+
